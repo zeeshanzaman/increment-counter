@@ -15,12 +15,13 @@ body {
     margin: 0;
 }
 
-.conter-continer {
+.counter-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     margin: 30px 50px;
+    margin-right: 40px;
 }
 
 .counter {
